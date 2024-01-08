@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512159153067",
+    "project_id": "givengain-a1b8d",
+    "storage_bucket": "givengain-a1b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512159153067:android:33fcf71d672a872380f0ee",
+        "android_client_info": {
+          "package_name": "com.example.prak4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdSH5hILiVPEdI27pSa9ccxWGOQDvMzMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
