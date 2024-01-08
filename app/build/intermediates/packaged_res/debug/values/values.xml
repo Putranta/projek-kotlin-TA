@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#fb7b7b</color>
+    <color name="colorPrimary">#688ae2</color>
+    <color name="colorPrimaryDark">#688ae2</color>
+    <color name="green">#3EB143</color>
+    <color name="pink">#EC1595</color>
+    <color name="primary">#04B6A6</color>
+    <color name="violet">#A70CD3</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Give N Gain</string>
+    <string name="gcm_defaultSenderId" translatable="false">512159153067</string>
+    <string name="google_api_key" translatable="false">AIzaSyBdSH5hILiVPEdI27pSa9ccxWGOQDvMzMY</string>
+    <string name="google_app_id" translatable="false">1:512159153067:android:33fcf71d672a872380f0ee</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBdSH5hILiVPEdI27pSa9ccxWGOQDvMzMY</string>
+    <string name="google_storage_bucket" translatable="false">givengain-a1b8d.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">givengain-a1b8d</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="AppTheme.Toolbar" parent="ThemeOverlay.AppCompat.ActionBar"/>
+    <style name="Base.Theme.Prak4" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="MyAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="Theme.Prak4" parent="Base.Theme.Prak4"/>
+</resources>

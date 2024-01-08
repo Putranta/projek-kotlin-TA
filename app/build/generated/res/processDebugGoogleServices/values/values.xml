@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">512159153067</string>
+    <string name="google_api_key" translatable="false">AIzaSyBdSH5hILiVPEdI27pSa9ccxWGOQDvMzMY</string>
+    <string name="google_app_id" translatable="false">1:512159153067:android:33fcf71d672a872380f0ee</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBdSH5hILiVPEdI27pSa9ccxWGOQDvMzMY</string>
+    <string name="google_storage_bucket" translatable="false">givengain-a1b8d.appspot.com</string>
+    <string name="project_id" translatable="false">givengain-a1b8d</string>
+</resources>

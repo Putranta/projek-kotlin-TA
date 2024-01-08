@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_arrow_forward_black_24dp.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_icon_home.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/icon_home.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_buttonshape.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/buttonshape.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/menu_navbar.xml.flat",
+        "source": "com.example.prak4.app-main-41:/menu/navbar.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_bajubks.jpg.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/bajubks.jpg"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_plus.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/plus.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_heart.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_shopping_cart_white_24dp.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_shopping_cart_white_24dp.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "com.example.prak4.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_btn_primary.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/btn_primary.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_barter.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/barter.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_bg_round.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/bg_round.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_img.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_add.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/add.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_home.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_setting.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_setting.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/font_dragonforce.ttf.flat",
+        "source": "com.example.prak4.app-main-41:/font/dragonforce.ttf"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.prak4.app-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/layout_activity_home.xml.flat",
+        "source": "com.example.prak4.app-main-41:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_top.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/top.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/layout_layout_item_home.xml.flat",
+        "source": "com.example.prak4.app-main-41:/layout/layout_item_home.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_sepatubks.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/sepatubks.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_profile_pic.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/profile_pic.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_bmx.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/bmx.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/layout_fragment_favorites.xml.flat",
+        "source": "com.example.prak4.app-main-41:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/xml_backup_rules.xml.flat",
+        "source": "com.example.prak4.app-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/layout_activity_login.xml.flat",
+        "source": "com.example.prak4.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/layout_activity_register.xml.flat",
+        "source": "com.example.prak4.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_search_light_gray_24dp.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_search_light_gray_24dp.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_white_rounded_shape.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/white_rounded_shape.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/layout_fragment_settings.xml.flat",
+        "source": "com.example.prak4.app-main-41:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_clothes.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/clothes.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_bg_round_bt.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/bg_round_bt.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/font_calibri.ttf.flat",
+        "source": "com.example.prak4.app-main-41:/font/calibri.ttf"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_aku.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/aku.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/layout_layout_category.xml.flat",
+        "source": "com.example.prak4.app-main-41:/layout/layout_category.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/font_test.xml.flat",
+        "source": "com.example.prak4.app-main-41:/font/test.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_tvrusak.jpg.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/tvrusak.jpg"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.prak4.app-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_sneakers.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/sneakers.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/layout_fragment_activity.xml.flat",
+        "source": "com.example.prak4.app-main-41:/layout/fragment_activity.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_hairline.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/hairline.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_television.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/television.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_activity.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_activity.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_person_gray_24dp.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_person_gray_24dp.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/layout_activity_create_item.xml.flat",
+        "source": "com.example.prak4.app-main-41:/layout/activity_create_item.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_produk.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_produk.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.prak4.app-pngs-34:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/font_latter.ttf.flat",
+        "source": "com.example.prak4.app-main-41:/font/latter.ttf"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_notif.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_notif.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_baseline_chat_24.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/baseline_chat_24.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_img_1.png.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/layout_fragment_home.xml.flat",
+        "source": "com.example.prak4.app-main-41:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.prak4.app-merged_res-39:/drawable_ic_lock_gray_24dp.xml.flat",
+        "source": "com.example.prak4.app-main-41:/drawable/ic_lock_gray_24dp.xml"
+    }
+]
